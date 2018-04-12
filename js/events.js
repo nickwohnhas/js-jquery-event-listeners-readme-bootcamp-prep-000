@@ -4,7 +4,9 @@ function getIt(){
     alert(`Hey!`)
   })
 }
-
+function frameIt(){
+  
+}
 
 
 $(document).ready(function(){
