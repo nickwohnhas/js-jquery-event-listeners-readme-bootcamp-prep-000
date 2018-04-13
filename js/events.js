@@ -9,7 +9,9 @@ function frameIt(){
  $('img').addClass('tasy')})
 }
 function pressIt(){
-  
+  $('#typing').on('keydown',function(key){
+    if (key === )
+  })
 }
 
 $(document).ready(function(){
