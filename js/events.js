@@ -8,7 +8,9 @@ function frameIt(){
   $('img').on('load', function(){
  $('img').addClass('tasy')})
 }
-
+function pressIt(){
+  
+}
 
 $(document).ready(function(){
 
